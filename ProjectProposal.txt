@@ -1,0 +1,6 @@
+We present an AI-Driven Cloud Access Security Broker CASB designed specifically for Indian SMEs adopting SaaS platforms like Google Workspace, Microsoft 365, and Salesforce. Teh system ingests real-time cloud
+access logs through a streaming piepeline(Kafka), builds behavioral baselines for users, and applies anomaly detection models (isolation Forest and Autoencoders) to detect account compromise,
+insider threats, data exfiltration, and suspicious access patterns, Each event is assigned an explainable risk score using feature attribution techniques, enabling transparent and
+actionable alerts via a lightweight dashboard. Fully containerized and deployment-ready, the solution delivers enterprise-grade threat visibility, real-time AI inference, and
+cost-efficient security monitoring tailored to the operational relaities of India's growing SME ecosystem-positioning it as a scalable, production-ready AI security platform rather than 
+just a hackathon owrthy prototype.
